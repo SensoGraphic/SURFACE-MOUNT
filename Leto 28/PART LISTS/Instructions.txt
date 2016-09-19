@@ -1,0 +1,98 @@
+ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
+
+PUBLICATION NAME: leto28PRELIMINARYpartlist.indd
+
+PACKAGE DATE: 2016-07-28 15:25
+Creation Date: 2016-07-26
+Modification Date: 2016-07-26
+
+CONTACT INFORMATION
+
+Company Name: 
+Contact: 
+Address: 
+
+
+
+
+
+Phone: 
+Fax: 
+Email: 
+
+SPECIAL INSTRUCTIONS AND OTHER NOTES
+
+
+
+
+
+
+External Plug-ins 1
+
+INBOOKLET SE.4X.PLN
+
+
+Non Opaque Objects :On Page1, 2
+
+FONTS
+5 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 0 Protected
+
+Fonts Packaged
+- Name: Swiss721BT-Bold; Type: TrueType, Status: OK
+- Name: Swiss721BT-Light; Type: TrueType, Status: OK
+- Name: Swiss721BT-LightExtended; Type: TrueType, Status: OK
+- Name: Swiss721BT-Roman; Type: TrueType, Status: OK
+- Name: Swiss721BT-RomanExtended; Type: TrueType, Status: OK
+
+
+COLORS AND INKS
+4 Process Inks; 0 Spot Inks
+
+- Name and Type: Process Cyan; Angle: 0,000; Lines/Inch: 0,000
+- Name and Type: Process Magenta; Angle: 0,000; Lines/Inch: 0,000
+- Name and Type: Process Yellow; Angle: 0,000; Lines/Inch: 0,000
+- Name and Type: Process Black; Angle: 0,000; Lines/Inch: 0,000
+
+
+LINKS AND IMAGES
+(Missing & Embedded Links Only)
+Links and Images: 4 Links Found; 0 Modified, 1 Missing
+Images: 0 Embedded, 4 use RGB color space
+
+- Name: sensologoneogreengray.bmp; Type: Windows Bitmap RGB; Status: Missing
+
+PRINT SETTINGS
+PPD: N/A, (hp LaserJet 1000 (Copy 3))
+Printing To: Printer
+Number of Copies: 1
+Reader Spreads: No
+Even/Odd Pages: Both
+Pages: All
+Proof: No
+Tiling: None
+Scale: 100%, 100%
+Page Position: Upper Left
+Printer's Marks: None
+Bleed: 0 in, 0 in, 0 in, 0 in
+Color: Composite RGB
+Trapping Mode: None
+Send Image Data: Optimized Subsampling
+OPI/DCS Image Replacement: No
+Page Size: Letter
+Paper Dimensions: 51p0 x 66p0
+Orientation: Portrait
+Negative: No
+Flip Mode: Off
+
+
+FILE PACKAGE LIST
+
+1. leto28PRELIMINARYpartlist.indd; type: Adobe InDesign publication; size: 1820K
+2. swissb.ttf; type: Font file; size: 35K
+3. swissl.ttf; type: Font file; size: 34K
+4. swissel.ttf; type: Font file; size: 36K
+5. swiss.ttf; type: Font file; size: 35K
+6. swisse.ttf; type: Font file; size: 36K
+7. L28 exploded detail.png; type: Linked file; size: 2017K
+8. L28 exploded gut tiltted.png; type: Linked file; size: 1231K
+9. L28 general view.png; type: Linked file; size: 615K
